@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="SampleClassLibrary/SampleClassLibrary.csproj" />
-  <Project Path="SampleConsoleProject/SampleConsoleProject.csproj" />
-  <Project Path="SampleWebApiProject/SampleWebApiProject.csproj" />
-</Solution>
